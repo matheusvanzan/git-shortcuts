@@ -12,6 +12,9 @@ alias gits="/path/to/your/clone/gits.sh"
 ## Usage
 
 ```
-gits "message" # git add --all && git commit -m "message" && git push
+This
+git add --all && git commit -m "message" && git push
 
+Becomes
+gits "message"
 ```
